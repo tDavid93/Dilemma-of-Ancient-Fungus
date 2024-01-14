@@ -1,0 +1,85 @@
+{
+    "play": [
+      {
+        "name": "Sylva",
+        "text": "<speak>In the quiet of the night, our stories find their deepest resonance.<break time='1s'/> Around this campfire, our voices carry the weight of our journeys.<break time='2s'/> Each word, a footprint on the path we have walked.</speak>"
+      },
+      {
+        "name": "Roren",
+        "text": "<speak>Indeed, Sylva.<break time='1s'/> In the shadow of the Whispering Mountains, I once found solace.<break time='2s'/> There, the winds carry tales older than time itself.</speak>"
+      },
+      {
+        "name": "Elena",
+        "text": "<speak>The Whispering Mountains, you say?<break time='1s'/> I've heard legends of that place.<break time='2s'/> They speak of hidden valleys, where echoes of ancient battles still linger in the air.</speak>"
+      },
+      {
+        "name": "Gruff",
+        "text": "<speak>Ah, those mountains are more than just stone and earth.<break time='1s'/> In Stoneglow City, we revere them as guardians of forgotten lore.<break time='2s'/> Their peaks, shrouded in mists, hold secrets not meant for mortal ears.</speak>"
+      },
+      {
+        "name": "Thalia",
+        "text": "<speak>The mists of the Whispering Mountains veil more than just peaks.<break time='1s'/> They are a curtain between our world and the unknown.<break time='2s'/> Many have sought to unveil their mysteries, only to be lost in their infinite silence.</speak>"
+      },
+      {
+        "name": "Sylva",
+        "text": "<speak>Such is the allure of the unknown, Thalia.<break time='1s'/> As adventurers, we are drawn to these mysteries, like moths to a flame.<break time='2s'/> Yet, we must tread cautiously, for not all secrets are meant to be uncovered.</speak>"
+      },
+      {
+        "name": "Roren",
+        "text": "<speak>Wisely spoken, Sylva.<break time='1s'/> Our world, vast and enigmatic, holds wonders beyond our wildest dreams.<break time='2s'/> But with each discovery, we must also respect the balance of nature and the ancient powers that govern it.</speak>"
+      },
+      {
+        "name": "Elena",
+        "text": "<speak>Respect and balance, yes.<break time='1s'/> As we sit here, sharing our tales, we also share in the responsibility of keeping these stories alive.<break time='2s'/> We are the link between the past and the future, the bearers of knowledge and wisdom.</speak>"
+    },
+    {
+    "name": "Gruff",
+    "text": "<speak>Indeed, Elena.<break time='1s'/> In our tales, we find lessons learned and wisdom gained.<break time='2s'/> Each story is a gem, forged in the crucible of our experiences, shining with its own unique light.</speak>"
+    },
+    {
+    "name": "Thalia",
+    "text": "<speak>As the night deepens, so do our stories.<break time='1s'/> Let us continue to share, for in sharing, we strengthen the bond that unites us.<break time='2s'/> This campfire, our circle of light, is a sanctuary where our spirits converge and our adventures live on.</speak>"
+    },
+    {
+        "name": "Sylva",
+        "text": "<speak>Our tales are like the stars above us.<break time='1s'/> Countless, each one a beacon of a different story, a different journey.<break time='2s'/> Together, they form constellations, guiding us through the night.</speak>"
+      },
+      {
+        "name": "Roren",
+        "text": "<speak>True, Sylva.<break time='1s'/> Like the stars, our stories guide future adventurers.<break time='2s'/> They light the way through darkness, offering hope and guidance in times of uncertainty.</speak>"
+      },
+      {
+        "name": "Elena",
+        "text": "<speak>And like the stars, our stories are eternal.<break time='1s'/> Long after we are gone, they will remain, a legacy of our existence.<break time='2s'/> A testament to our lives and the paths we have walked.</speak>"
+      },
+      {
+        "name": "Gruff",
+        "text": "<speak>Each story adds to the legacy of our world.<break time='1s'/> From the soaring peaks of the Whispering Mountains to the deepest depths of the Caverns of Echoes.<break time='2s'/> Our tales are the threads that weave the fabric of our world's history.</speak>"
+      },
+      {
+        "name": "Thalia",
+        "text": "<speak>As storytellers, we have a great responsibility.<break time='1s'/> We must ensure that the truths we share are preserved and passed on.<break time='2s'/> For in these truths lies the power to inspire, to teach, and to enlighten.</speak>"
+      },
+      {
+        "name": "Sylva",
+        "text": "<speak>Our journey is far from over.<break time='1s'/> There are still many paths to tread, many stories to uncover.<break time='2s'/> May our adventures continue to lead us to new horizons, new discoveries.</speak>"
+      },
+      {
+        "name": "Roren",
+        "text": "<speak>And may our hearts always be open to the lessons of the past and the possibilities of the future.<break time='1s'/> For it is in the heart that all great adventures begin and end.<break time='2s'/> Here's to the journey ahead and the stories yet to be told.</speak>"
+      },
+      {
+        "name": "Elena",
+        "text": "<speak>Here's to the journey, indeed.<break time='1s'/> May our paths be guided by wisdom, our actions by kindness, and our stories by truth.<break time='2s'/> Let the fire of our spirit never fade.</speak>"
+      },
+      {
+        "name": "Gruff",
+        "text": "<speak>And let the fire of this campfire be a symbol of our unbreakable bond.<break time='1s'/> In its warmth, we find camaraderie; in its light, clarity; and in its flames, the passion that fuels our adventures.</speak>"
+      },
+      {
+        "name": "Thalia",
+        "text": "<speak>As the night turns to dawn, let us carry these stories with us, like embers in the wind.<break time='1s'/> May they ignite the flames of adventure in all who hear them.<break time='2s'/> Until we gather again, may our tales live on in the hearts of those we meet.</speak>"
+      }
+    ]
+    }
+  

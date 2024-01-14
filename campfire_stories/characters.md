@@ -1,56 +1,51 @@
-1. **Elena the Shadow Scholar:**
+1. **Elena the Shadow Scholar**:
     
-    - Role: A dedicated scholar and Árnyvarázsló (Shadow Wizard).
-    - Description: Elena is a middle-aged woman with long, silver hair, often seen wearing dark, flowing robes. She carries a weathered spellbook and a staff adorned with shadowy runes. Her sharp intellect and curiosity about the darker aspects of magic have made her a respected figure among the Árnyvarázslók.
-    - Hobbies/Interests: Elena has a passion for collecting rare and ancient grimoires. She spends her free time experimenting with new shadow manipulation techniques and enjoys stargazing in the bioluminescent night sky.
-    - Elena is a woman in her mid-40s, with a slender and graceful figure. Her long, silver hair flows down her back like a shimmering waterfall, often partially obscured by a hooded, dark-blue robe. Her pale complexion contrasts with her emerald-green eyes that seem to hold the secrets of the shadows. Elena carries a well-worn spellbook, bound in leather and decorated with silver glyphs. Her staff, made from ebony wood, is adorned with intricate silver carvings and topped with a gleaming black gemstone.
-    - Before joining the campfire gathering, Elena was conducting research deep within the bioluminescent Gombaerdő (Mushroom Forest), seeking ancient texts hidden in hidden caves. Her journey took her to the heart of the forest, where she had to navigate through winding passages filled with mystical flora and fauna.
-    - speaker: en_25
-1. **Gruff the Stonemason Knight:**
+    - **Physical Appearance**: Elena's silver hair is intricately braided, with strands interwoven with small, shadowy charms that glimmer faintly. Her dark-blue robes are embroidered with esoteric symbols that subtly shift in appearance, reflecting her deep connection with shadow magic.
+    - **Spellbook and Staff**: The spellbook's leather is ancient, etched with enigmatic symbols that seem to move under direct gaze. Her staff, while appearing solid, occasionally emits wisps of shadow, giving it an ethereal quality.
+    - **Backstory**: Elena's reputation as a Shadow Wizard was solidified when she uncovered the lost Shadow Codex in the ruins of an ancient temple, revealing forgotten shadow manipulation techniques.
+    -
+    - - **Personality and Demeanor**: Elena is often introspective and somewhat distant, lost in her complex thoughts and theories. While her brilliance is undisputed, she can be overly critical and impatient with those who don't understand her advanced concepts. This sometimes leads to isolation, as she struggles to balance her insatiable quest for knowledge with meaningful personal relationships.
+- **Flaw**: Elena's obsession with shadow magic occasionally leads her down morally ambiguous paths, causing internal conflict between her scholarly pursuits and ethical boundaries.
+1. **Gruff the Stonemason Knight**:
     
-    - Role: A Kőműves harcos (Stonemason Warrior) skilled in crafting protective shields.
-    - Description: Gruff is a burly and grizzled man known for his immense strength and loyalty. He wears armor made of stone-carved plates and wields a massive stone shield adorned with bioluminescent gems. He is a steadfast protector of his people, always ready to defend his homeland.
-    - Hobbies/Interests: Gruff has a soft spot for gardening and tends to a small patch of bioluminescent plants near his home. He's also an amateur bard, and he enjoys singing and composing songs about his adventures and the beauty of Mélygyökér.
-    - Gruff is a rugged man in his late 30s, built like a formidable boulder. His beard is a mix of gray and brown, and his weathered face bears scars from battles past. He dons heavy, stone-carved armor, intricately etched with geometric patterns that catch the bioluminescent light. Gruff's massive stone shield, inlaid with bioluminescent gems, is a testament to his craftsmanship and combat prowess. He carries a large, well-worn hammer on his back, ready for any threat.
-    - Gruff had been on a mission to strengthen the defensive structures within Glószváros, the city beneath the roots of the Életfa. He was supervising a team of stonemasons who were carving protective shields and fortifications from the roots of the tree. His journey involved working tirelessly underground, ensuring the safety of his fellow citizens.
-    - speaker: en_34
-1. **Sylva the Bioluminescent Artisan:**
+    - **Physical Appearance**: Gruff's armor is not just functional; it's a masterpiece of stone craftsmanship, with each plate telling a story of his battles and victories. His beard is braided with small stones from his homeland, symbolizing his connection to the earth.
+    - **Shield and Hammer**: His shield bears the emblem of Mélygyökér, glowing more intensely during battle. His hammer, crafted from the heartstone of a fallen mountain, resonates with a deep, earthy tone.
+    - **Backstory**: Gruff once single-handedly defended a village from a marauding beast using only his shield, which has since become a symbol of his unyielding bravery.
     
-    - Role: A gifted artisan specializing in crafting intricate bioluminescent jewelry and sculptures.
-    - Description: Sylva is a young and vivacious woman with vibrant hair that emits a soft, bioluminescent glow. She is often seen adorned with her own creations, which shimmer and change colors in the dark. Sylva's artistry reflects her deep connection to the Életfa and its beauty.
-    - Hobbies/Interests: Sylva is an avid botanist, and she loves exploring the bioluminescent flora of Mélygyökér's forests. She often sketches these plants as inspiration for her art. She's also a talented musician and plays ethereal melodies on a bioluminescent harp.
-    - Sylva is a young woman in her early 20s, with an ethereal and vibrant presence. Her hair is a cascade of iridescent colors, reminiscent of the bioluminescent flora she adores. She wears flowing, bioluminescent silk garments adorned with intricate beadwork. Her fingers are adorned with rings crafted from bioluminescent gemstones, casting colorful glimmers in the darkness. Sylva's eyes are a striking shade of lavender, reflecting the magic of her creations.
-    - Sylva's travels had taken her to the outskirts of Mélygyökér, where she was harvesting rare bioluminescent plants and minerals for her artwork. She ventured into the mysterious Árnyéklabirintus (Shadow Labyrinth), a labyrinthine network of tunnels and caves, to find the most vibrant and exotic materials for her creations.
-    - speaker: en_28
-1. **Roren the Mókuslovag (Squirrel Knight):**
+    - - **Personality and Demeanor**: Gruff's demeanor is stoic and dependable, but he often struggles with expressing his emotions, leading to misunderstandings with those around him. His unwavering dedication to his duties sometimes makes him overlook his personal needs and relationships.
+- **Flaw**: His stubbornness and reluctance to adapt to new methods can hinder his effectiveness, especially in rapidly changing situations.
+1. **Sylva the Bioluminescent Artisan**:
     
-    - Role: A Mókuslovag (Squirrel Knight), an elite warrior group with the ability to commune with nature and channel dark energies.
-    - Description: Roren is a charismatic and agile fighter with a charming smile. He wears lightweight, enchanted armor and carries a unique, bioluminescent sword. Roren's connection to nature and his enigmatic combat abilities make him a force to be reckoned with.
-    - Hobbies/Interests: Roren has a fascination with astronomy and often maps the night sky's constellations. He also enjoys participating in the local Életfa energy meditation sessions to connect with nature and enhance his combat abilities.
-    - Roren is a charismatic man in his early 30s, with a lean and agile physique. His golden-brown hair is typically tied back to reveal his expressive hazel eyes. He wears a lightweight, forest-green tunic and pants, designed for ease of movement. His enchanted armor is made from flexible materials, allowing him to perform acrobatic maneuvers. Roren's unique bioluminescent sword has a slender, curved blade and a hilt wrapped in dark leather.
-    - Roren had been patrolling the borders of Mélygyökér, protecting the outer settlements from creatures corrupted by dark energies. His journey often led him deep into the Sötétség Élővilág (Darkness Wildlife), where he honed his combat skills and formed a spiritual connection with the untamed wilderness.
-    - speaker: en_46
-1. **Liara the Wayfarer of Shadows:**
+    - **Physical Appearance**: Sylva's clothing is not just bioluminescent but also reacts to her emotions, subtly changing hues and patterns. Her jewelry, crafted from rare bioluminescent minerals, accentuates her ethereal beauty.
+    - **Artistry and Instruments**: Her bioluminescent harp is a masterpiece, with strings that emit different colors and tones, creating a visual symphony when played.
+    - **Backstory**: Sylva once crafted a legendary necklace that is said to glow brightest in the presence of true love, a testament to her skill and the magic infused in her creations.
+    - - **Personality and Demeanor**: Sylva's vibrant and playful nature is infectious, but she can be overly sensitive to criticism, taking even constructive feedback personally. Her artistic temperament makes her mood unpredictable at times.
+- **Flaw**: Sylva's pursuit of artistic perfection often leads her to neglect practical aspects of life, resulting in moments of unpreparedness and disorganization.
+4. **Roren the Mókuslovag (Squirrel Knight)**:
     
-    - Role: A wanderer and seeker of ancient knowledge related to shadow and darkness.
-    - Description: Liara is a mysterious figure who always keeps her face concealed beneath a hooded cloak. She is known for her cryptic demeanor and a staff topped with a shadowy crystal. Liara's tales often revolve around her enigmatic encounters with the Sötét Szövetség and her quest for forbidden wisdom.
-    - Hobbies/Interests: Liara has a penchant for collecting ancient artifacts and enjoys deciphering cryptic runes and symbols. She's an excellent storyteller herself, weaving tales that blur the lines between reality and myth, often testing the boundaries of her audience's beliefs.
-    - Liara is an enigmatic figure of indeterminate age, often concealed beneath a shadowy, hooded cloak. Her face remains veiled, adding to her air of mystery. Her attire is a combination of dark, flowing fabrics, adorned with silver-thread embroidery that shimmers faintly in the bioluminescent light. She carries a staff made from ancient, gnarled wood, crowned with a crystalline orb that pulses with a faint, ethereal glow.
-    - Liara's travels were shrouded in secrecy as she ventured into the heart of the Éjfolt (Éjfoltváros), the deepest and most mysterious part of Mélygyökér. Her journey took her into the ancient crypts and shadowy catacombs, where she sought hidden knowledge about the Sötét Szövetség and their dark rituals.
-    - speaker: en_52
-1. **Darian the Bioluminescent Trader:**
+    - **Physical Appearance**: Roren's armor, while lightweight, is adorned with symbols of the forest and wildlife, showcasing his deep bond with nature. His hair, often untamed, mirrors his free-spirited nature.
+    - **Sword and Skills**: His bioluminescent sword, named "Lunar Whisper," is rumored to have been forged under a rare celestial alignment, giving it unique properties.
+    - **Backstory**: Roren is known for having tamed a wild, shadow-infused stallion, which he now rides into battle, symbolizing his mastery over both light and dark elements of nature.
+    - **Personality and Demeanor**: Roren's charisma and humor mask a deeper sense of loneliness. He finds it difficult to form deep connections, as his duties often keep him on the move. His charm can sometimes come across as insincerity, making it hard for others to see his genuine intentions.
+- **Flaw**: His overconfidence in his abilities can sometimes lead him to underestimate challenges, putting himself and others in unexpected danger.
+5. **Liara the Wayfarer of Shadows**:
     
-    - Role: A successful trader specializing in rare bioluminescent goods from Mélygyökér.
-    - Description: Darian is a shrewd and savvy merchant with a penchant for wearing finely tailored bioluminescent clothing. His stories often involve his adventures in acquiring unique items from various corners of Mélygyökér, showcasing his resourcefulness and knack for negotiation.
-    - Hobbies/Interests: Darian is an enthusiastic cook and enjoys experimenting with bioluminescent ingredients, creating unique dishes for his friends around the campfire. He's also an avid reader and often trades for rare books and scrolls from distant cities.
-    - Darian is a middle-aged man with a keen and shrewd expression. He has dark hair, neatly trimmed, and a well-groomed beard. His attire consists of finely tailored bioluminescent clothing, with a jacket made from luminescent threads that change color with his movements. Darian's fingers are adorned with intricate bioluminescent rings, and he carries a satchel filled with rare and exotic goods, emitting a soft, calming glow.
-    - Darian had been on a trading expedition to the distant city of Éjsötétvár (Darknight Citadel), a bustling hub of commerce within Mélygyökér. His journey involved navigating the complex levitation networks of Glószváros and negotiating with various merchants to acquire unique bioluminescent goods for trade.
-    - speaker: en_58
-1. **Thalia the Spiritual Guide:**
+    - **Physical Appearance**: Liara's cloak is woven from shadows and moonlight, making her appear as if she's part of the night itself. Her concealed face adds to her enigmatic allure.
+    - **Staff and Artifacts**: Her staff is rumored to be a key that unlocks portals to other realms. She carries an assortment of ancient artifacts, each with a mysterious origin and purpose.
+    - **Backstory**: Liara once vanished for a decade, rumored to have journeyed to a realm of eternal twilight. Her return was as mysterious as her departure, bringing with her knowledge long thought lost.
+    -- **Personality and Demeanor**: Liara's mysterious nature is intriguing but can also be off-putting. Her secretive lifestyle and reluctance to share personal details make her an enigma, causing others to question her trustworthiness.
+- **Flaw**: Her obsession with uncovering hidden knowledge sometimes leads her to take excessive risks, endangering herself and those who might try to follow or assist her.
+6. **Darian the Bioluminescent Trader**:
     
-    - Role: A spiritual leader and healer, devoted to the Életfa and its life-giving energies.
-    - Description: Thalia is an older woman with kind eyes and a gentle demeanor. She wears robes adorned with bioluminescent patterns and carries a staff wrapped in vines. Her stories emphasize the importance of spiritual connection and the healing powers of the Életfa.
-    - Hobbies/Interests: Thalia practices the art of bonsai, cultivating miniature versions of Mélygyökér's unique trees. She also participates in traditional Életfa dances during festivals and teaches these dances to children in her community.
-    - Thalia is an older woman in her 60s, with a gentle and serene demeanor. Her silver hair is neatly braided, and she wears flowing robes made from bioluminescent fabric. A circlet of intertwined vines adorned with glowing flowers rests on her head. Her eyes, warm and wise, seem to reflect the wisdom of the Életfa itself. Thalia's staff is a living vine, adorned with bioluminescent leaves that softly rustle in the breeze.
-    - Thalia had recently returned from a pilgrimage to the Életfa Művészeti Tér (Tree of Life Artisan Square), where she participated in a spiritual retreat with other Életfa Őrzői (Tree Guardians). Her journey involved deep meditation, communing with the Életfa's energies, and sharing ancient stories with fellow spiritual seekers.
-    - speaker: en_64
+    - **Physical Appearance**: Darian's clothing, while elegant, contains hidden pockets and compartments, reflecting his readiness for any trading opportunity. His eyes, a deep shade of blue, seem to calculate the value of everything he sees.
+    - **Satchel and Goods**: His satchel is a treasure trove of rarities, each item with its own history and tale, often shared by Darian in his charismatic style.
+    - **Backstory**: Darian once bartered his way from a single bioluminescent stone to a fortune, earning him the title of "The Illuminated Merchant."
+    - **Personality and Demeanor**: Darian's shrewdness and charm serve him well in trade, but they also mask a deep-seated fear of failure. His past experiences have taught him to trust no one fully, making him overly cautious in his personal life.
+- **Flaw**: His focus on material success can make him appear greedy or superficial, often overlooking the value of non-material riches in life.
+7. **Thalia the Spiritual Guide**:
+    
+    - **Physical Appearance**: Thalia's robes are woven from fibers of the Életfa itself, shimmering with a life force that seems to pulse gently. Her eyes, a deep green, reflect a lifetime of wisdom and compassion.
+    - **Staff and Bonsai**: Her staff, alive with the essence of Életfa, blooms with flowers that emit a soothing fragrance. Her bonsai creations are miniaturized yet perfect reflections of Mélygyökér's majesty.
+    - **Backstory**: Thalia is revered for having healed a rift in the Életfa, using her deep spiritual connection to restore balance and harmony.
+    -- **Personality and Demeanor**: Thalia's wisdom and serenity are comforting, but her high expectations can be daunting to those around her. She sometimes appears detached from the everyday struggles of the people she guides, living in a realm of spiritual ideals.
+- **Flaw**: Thalia's deep connection to the spiritual realm can make her seem aloof or disconnected from the practical realities faced by her followers.
