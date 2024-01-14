@@ -1,0 +1,59 @@
+{
+  "play": [
+    {
+      "name" : "Elena",
+ "speaker": "en_25",
+      "text": "<speak>As we share our tales, I am reminded of the ancient legend of the Gyémántok Rész. It is said that deep within its crystalline caverns lies the heart of Mélygyökér, pulsing with a power that predates even the Életfa.<break time='1s'/> Have any of you heard of this fabled place?</speak>"
+    },
+    {
+      "name" : "Gruff",
+    "speaker": "en_34",
+      "text": "<speak>Aye, I've heard whispers of it in the forges of Glószváros. They say that the crystals of Gyémántok Rész can forge weapons of unparalleled strength.<break time='1s'/> But it's more than just power – it’s a testament to the endurance of our world, shaped by time and pressure.</speak>"
+    },
+    {
+      "name" : "Sylva",
+ "speaker": "en_28",
+      "text": "<speak>In my travels, I've seen fragments of those crystals. In their facets, one can see the interplay of light and shadow, much like in my art.<break time='1s'/> They hold stories, memories of the earth itself, waiting to be unveiled.</speak>"
+    },
+    {
+      "name" : "Roren",
+ "speaker": "en_46",
+      "text": "<speak>Indeed, the Gyémántok Rész is more than a legend. It's a place where the boundaries of our world blur with the realms beyond.<break time='1s'/> I've encountered its guardians, beings of crystal and light, protectors of ancient secrets.</speak>"
+    },
+    {
+      "name" : "Thalia",
+ "speaker": "en_64",
+      "text": "<speak>The Gyémántok Rész represents the balance of all things. Just as the Életfa stands at the center of life and death, the crystal heart of Mélygyökér embodies the eternal struggle between creation and destruction.<break time='1s'/> Its existence is a reminder that every end is but a new beginning in this vast cycle.</speak>"
+    },
+    {
+      "name" : "Elena",
+ "speaker": "en_25",
+      "text": "<speak>These tales add depth to our understanding of Mélygyökér. It's fascinating how each of our experiences, whether in the depths of forests or the heart of cities, connects us to the greater tapestry of this world.</speak>"
+    },
+    {
+      "name" : "Gruff",
+ "speaker": "en_34",
+      "text": "<speak>True, Elena. Our paths may differ, but our destination is the same – to uncover the mysteries of Mélygyökér and protect its legacy.<break time='1s'/> Whether it be through art, craft, or battle, we all play our part in this grand adventure.</speak>"
+    },
+    {
+      "name" : "Sylva",
+ "speaker": "en_28",
+      "text": "<speak>And in sharing our stories, we keep the spirit of adventure alive. Each word, like a brushstroke, adds color to the canvas of our world.<break time='1s'/> Let us continue to weave these tales, for they are the lifeblood of Mélygyökér.</speak>"
+    },
+    {
+      "name" : "Roren",
+ "speaker": "en_46",
+      "text": "<speak>Indeed, Sylva. Our stories are like the bioluminescent flora, illuminating the path for future adventurers. They guide, inspire, and remind us of the wonders that await in the shadows and the light.</speak>"
+    },
+    {
+      "name" : "Thalia",
+ "speaker": "en_64",
+      "text": "<speak>As guardians of these tales and custodians of Mélygyökér's mysteries, we carry a great responsibility. We must ensure that the knowledge and lessons of the past are not lost, but passed on to those who will follow in our footsteps.</speak>"
+    },
+    {
+      "name" : "Elena",
+ "speaker": "en_25",
+      "text": "<speak>So, around this fire, under the watchful gaze of the stars, let us pledge to keep the flame of curiosity and courage burning bright. For in our tales lies the essence of Mélygyökér, and in our hearts, its undying spirit.</speak>"
+    }
+  ]
+}    

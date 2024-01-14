@@ -1,0 +1,9 @@
+A Tízmillió Szféra egy kiterjedt, szinte végtelen dimenziók birodalma, ahol az istenek, lények és erők számtalan formája és aspektusa létezik. Ez a tér nem csak fizikai dimenziókat foglal magában, hanem spirituális, mentális és misztikus síkokat is, lényegében mindent áthat.
+
+A Tízmillió Szféra birodalma a Teremtés, a Megőrzés és a Megsemmisítés széles skáláját öleli fel, és minden dimenziója más és más szabályoknak, törvényeknek és lényeknek van alávetve. Az istenek, mint [[Vitalion]], [[Marion]] és [[Shadron]] a különböző dimenziók főnökei, magasabb szintű lények, akik befolyásolják és irányítják a szférák egyes területeit.
+
+A Tízmillió Szféra dimenziói között megtalálhatók azok, amelyek a fény és az élet felé haladnak, valamint azok is, amelyek a sötétség és a pusztulás felé hajlanak. A szférák közötti kapcsolatok bonyolultak és mélyek, és az istenek közötti dinamika határozza meg az egyes dimenziók sorsát és fejlődését.
+
+Ezen dimenziók lakói különféle lények, istenek, démonok, angyalok és egyéb varázslatos entitások, akik különböző célokat szolgálnak. A Tízmillió Szféra egyensúlya folyamatosan változik, és az egyes dimenziókban zajló események, cselekedetek és háborúk befolyásolják az egész birodalmat.
+
+A karakterek számára a Tízmillió Szféra felfedezése egy hatalmas és veszélyekkel teli kihívást jelenthet. Az istenségek, dimenziók és a köztük lévő összefüggések megértése kulcsfontosságú a világ és az [[Életfa]] megmentése érdekében. A szféra számtalan titkot, misztikus erőt és kalandot rejt, és a karaktereknek mélyen bele kell hatolniuk a szférákba, hogy megértsék és megtörjék azokat a kötelékeket, amelyek fenyegetik az isteni egyensúlyt.

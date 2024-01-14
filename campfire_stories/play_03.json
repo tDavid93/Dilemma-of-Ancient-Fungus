@@ -1,0 +1,44 @@
+{
+  "play": [
+    {
+      "name": "Roren",
+      "text": "<speak>Speaking of Mélygyökér's heart, have you ever ventured near the Életfa? Its energy is unlike anything else, both terrifying and awe-inspiring.<break time='1s'/> Its presence is overwhelming, yet profoundly enlightening.</speak>"
+    },
+    {
+      "name": "Sylva",
+      "text": "<speak>Yes, Roren. The Életfa's energy courses through every leaf and branch. It's like the tree whispers ancient secrets, if only one knows how to listen.<break time='1s'/> Its aura is both protective and mysterious, holding the balance of life in Mélygyökér.</speak>"
+    },
+    {
+      "name": "Elena",
+      "text": "<speak>I've always been fascinated by the Életfa. It's said that its roots extend into other realms, connecting worlds in ways we can't even imagine.<break time='1s'/> The thought of such vastness is both humbling and exhilarating.</speak>"
+    },
+    {
+      "name": "Gruff",
+      "text": "<speak>Ah, the Életfa. In Glószváros, we respect its power, but we also fear its wrath. It's a reminder of nature's dominion over all, even the mightiest of cities.<break time='1s'/> We must tread carefully in its shadow.</speak>"
+    },
+    {
+      "name": "Thalia",
+      "text": "<speak>True, Gruff. The Életfa's influence is felt in every aspect of our world. It's a symbol of life's endless cycle - birth, growth, decay, and rebirth.<break time='1s'/> It teaches us to respect the forces of nature and the delicate balance they maintain.</speak>"
+    },
+    {
+      "name": "Roren",
+      "text": "<speak>And yet, there are places in Mélygyökér where the Életfa's influence wanes. In these shadows, other powers rise, some benevolent, others malevolent.<break time='1s'/> It's a constant struggle between light and darkness.</speak>"
+    },
+    {
+      "name": "Sylva",
+      "text": "<speak>Such is the nature of our world, a tapestry woven with countless threads of light and shadow. Each of our stories adds another strand to this ever-growing narrative.<break time='1s'/> May we continue to explore and understand the mysteries of Mélygyökér.</speak>"
+    },
+    {
+      "name": "Elena",
+      "text": "<speak>Indeed, Sylva. Our journey is never-ending, and with each step, we uncover more of Mélygyökér's hidden truths. Together, around this fire, we share not just stories but a part of ourselves.<break time='1s'/> A bond forged in the heart of this mystical world.</speak>"
+    },
+    {
+      "name": "Gruff",
+      "text": "<speak>Aye, and in these shared moments, our resolve strengthens. We're not just adventurers; we're guardians of Mélygyökér's legacy.<break time='1s'/> Let's honor our roles and protect this world for generations to come.</speak>"
+    },
+    {
+      "name": "Thalia",
+      "text": "<speak>As guardians, we carry the torch passed down through ages. Our tales, our discoveries, ourchallenges - they are all part of Mélygyökér's unfolding story.<break time='1s'/> May our campfire always burn bright, a beacon of hope and unity in this ever-changing world.</speak>"
+    }
+    ]
+    }

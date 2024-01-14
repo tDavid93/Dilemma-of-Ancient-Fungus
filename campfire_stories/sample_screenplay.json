@@ -1,0 +1,46 @@
+{
+    "play": [
+{"name" : "Elena",
+ "speaker": "en_25",
+  "text" : "<speak>Do you ever wonder what secrets the shadows hide? In the depths of the Gombaerdő, I found ancient texts, whispering of powers beyond our understanding.<break time='1s'/> The darkness there... it's alive, pulsating with forgotten magic.</speak>"
+},
+
+{"name" : "Gruff",
+ "speaker": "en_34",
+  "text" : "<speak>Shadows and secrets, eh? In Glószváros, we trust the strength of stone and the glow of bioluminescent light. It's the solid things, the things you can touch and build, that matter most.<break time='1s'/> But I respect the shadows' power, for they too are part of our world.</speak>"
+  },
+
+
+{"name" : "Sylva",
+ "speaker": "en_28",
+  "text" : "<speak>And yet, in every piece of bioluminescent flora, there's a dance of light and shadow. In my art, I try to capture that dance. It's the balance of light and dark that makes each creation so unique.</speak>"},
+
+
+{"name" : "Roren",
+ "speaker": "en_46",
+  "text" : "<speak>Out in the Darkness Wildlife, where light and shadow blend, one learns the true essence of balance. There, nature teaches us the harmony of coexistence, where light cannot exist without the dark.</speak>"},
+
+
+{"name" : "Roren",
+ "speaker": "en_52",
+  "text" : "<speak>In the depths of Éjfolt, among the crypts and catacombs, the shadows speak. They tell tales of the Sötét Szövetség and their dark rituals, revealing a world where light fears to tread.</speak>"},
+
+
+{"name" : "Roren",
+ "speaker": "en_58",
+  "text" : "<speak>Ah, the dance of shadows and light, an ever-present theme in my travels. In Éjsötétvár, I bartered for goods that glimmer in the dark. These bioluminescent treasures hold the essence of Mélygyökér's mysterious beauty.</speak>"},
+
+
+{"name" : "Thalia",
+ "speaker": "en_64",
+  "text" : "<speak>Indeed, both light and shadow are essential. In my teachings, I emphasize the balance they bring. The Életfa itself thrives in this interplay, a symbol of life's resilience and the cycles we all must embrace.</speak>"},
+
+{"name" : "Elena",
+ "speaker": "en_25",
+  "text" : "<speak>It seems, then, that we are all connected by this balance. Whether in the pursuit of knowledge, the crafting of art, or the defense of our homes, we are each a part of the grand tapestry woven by light and shadow.</speak>"},
+
+
+{"name" : "Gruff",
+ "speaker": "en_34",
+  "text" : "<speak>Aye, that we are. And in this circle of light, around this fire, our tales intertwine, each adding its own hue to the story of Mélygyökér.</speak>"}
+    ]}

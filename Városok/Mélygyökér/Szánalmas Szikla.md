@@ -1,0 +1,7 @@
+A Szánalmas Szikla, a [[Mélygyökér]] egyik legmegkapóbb és legrejtélyesebb nevezetessége, mélyen a város alatt rejtőzik. Ez a kőzet valóságos érzelmi rezonátor, mintha egy ősi kötődés lenne az [[Életfa]] és a városlakók érzéseinek tükrében. A szikla felülete érzékeny, sűrűn áthatolva az érzelmek hullámaival, s a városlakók szerint a kő maga is hordozza az [[Életfa]] gyökereinek és az emberek kapcsolatának érzelemteli történetét.
+
+Az érzelmi térkép, amit a [[Szánalmas Szikla]] kínál, a városlakóknak lehetőséget ad arra, hogy az érzéseiket szó szerint megmutassák a világnak. Ha boldogság vagy öröm tölti el valakit, a szikla ragyogó színekkel pompázik, mint a legszebb tavaszi virágok. Az édes szomorúság vagy a fájdalom esetén azonban az [[árnyak]] sűrűbben ölelik körbe a sziklát, és szinte mintha a kő sírna a fájdalomtól.
+
+A városlakók úgy hiszik, hogy a [[Szánalmas Szikla]] nem csak egyszerű kőzet, hanem egyfajta közvetítő az [[Életfa]] és az emberek közötti kölcsönhatásban. A város lakói gyakran időt töltenek a szikla közelében, nézve és érezve az érzelmi kavalkádot, amely az érzelmek tükröződéseivel jár.
+
+A [[Szánalmas Szikla]] tehát nemcsak egy látványos geológiai képződmény, hanem egy érzelmekre hangolt szobor, mely az [[Életfa]] és a városlakók közötti szoros kapcsolat mély jelentését hordozza. Azok, akik ide látogatnak, gyakran érzik, hogy a kő maga is a város és annak lakóinak életének részévé válik, egyfajta érzelmi társ, aki mindig jelen van az élet és az érzelmek változékonyságában.

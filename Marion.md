@@ -1,0 +1,7 @@
+[[Marion]], a Megmentő, egy főisten a [[Tízmillió Szféra]] birodalmában, és ő képviseli azokat az istenségeket, akik az életet és a jóságot szolgálják. [[Marion]] egy nemes lény, bölcsességgel és szeretettel telve, aki az élet teremtését és megőrzését tekinti elsődleges feladatának.
+
+[[Marion]] az isteni hierarchiában a Teremtő, [[Vitalion]] mellett áll, és az ő hűséges szolgája. Az ősisten utolsó erejével megvédte a világot a pusztulástól és létrehozta az [[Életfa]]t , ám ez a tett egyben a gonoszból származó parazitát is a világba ültette. Marion erejét és gondoskodását az emberek iránt a teremtés és a megőrzés terén fejezi ki.
+
+Mint a Megmentő, Marion aktív részese az élet folyamatának. Az istenek és lények közötti béke és harmónia megőrzése érdekében folyamatosan ellenáll a Sötétség, [[Shadron]] hatalmának, mely az örök pusztítást kívánja. Marion az élet és a fény oldalán áll, és az emberi faj, valamint minden élőlény iránti szeretetét érezteti a világgal.
+
+Az [[Életfa]] létrejöttével és a parazita elültetésével Marionnak komoly döntéseket kellett hoznia, és azóta is aktívan részt vesz a világ és az [[Életfa]] védelmében. Az istenek közötti dinamika és a [[Tízmillió Szféra ]]birodalmában betöltött szerepe mély és összetett, és a karaktereknek az ő bölcsességéhez kell fordulniuk, hogy megértsék az [[Életfa]] titkait és a Sötétség fenyegetését. Marion emblematikus alak a jó és az élet számára, és karakterei inspirációt meríthetnek az ő tiszta szándékából és az emberi faj iránti elkötelezettségéből.
