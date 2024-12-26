@@ -10,3 +10,4 @@ A Kétarcú Kereskedelem a [[Glószváros]] mélyén található, ahol az [[Éle
 2. **Tudás és Hatalom:**
     
     - A kereskedők hozzáférnek a [[Sötét Szövetség]] ősi ismereteihez, amelyeket üzleti előnyre használnak fel, beleértve az [[Életfa]] [[sötét]] energiáinak manipulációját és az érzelmek befolyásolását.
+  - 
